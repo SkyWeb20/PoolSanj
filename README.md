@@ -7,8 +7,7 @@
 
 ## 🚀 لینک نسخه زنده
 
-[🔗 **مشاهده نسخه زنده پول سنج**](https://skyweb20.github.io/PoolSanj/){:target="_blank" rel="noopener noreferrer"}
-
+<a href="https://skyweb20.github.io/PoolSanj/" target="_blank" rel="noopener noreferrer">🔗 <b>مشاهده نسخه زنده پول سنج</b></a>
 
 
 ## ✨ ویژگی‌ها
